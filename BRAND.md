@@ -5,6 +5,13 @@
 - **Kanäle:** TikTok + Instagram (Verkauf, Community, Marketing)
 - **Stil:** Streetwear mit Graffiti-Einfluss, roh und minimalistisch
 
+## Zielgruppe
+Männer und Frauen. Die Marke ist **unisex** ausgerichtet.
+- Oversized- und Regular-Schnitte, die an beiden gut aussehen
+- Größen **XS bis XXL**, Größentabelle pro Teil angeben (weniger Retouren)
+- Models und Content mit Männern und Frauen mischen, damit sich beide angesprochen fühlen
+- Später optional: Cropped-Shirts oder figurbetonte Schnitte für Frauen, sobald die Nachfrage da ist
+
 ## Farben
 | Name  | Hex       | Nutzung                     |
 |-------|-----------|-----------------------------|
