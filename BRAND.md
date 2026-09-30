@@ -54,6 +54,7 @@ Winterjacke · T-Shirts · Pullover · Hosen · Jogginganzug · Kurze Hosen
 Tipp: Mit **Drop 1** starten, nicht alles auf einmal. Wenige Teile wirken knapp und begehrt ("limited drop").
 
 ### Design-Ideen (nur Schwarz/Weiß)
+**Grundregel:** Weißes Shirt = **schwarzes** Logo. Schwarzes Shirt = **weißes** Logo. Druckdateien: `logo/lunex-logo-black-transparent.svg` und `logo/lunex-logo-white-transparent.svg`.
 - Schwarze Teile mit weißem Graffiti-Logo groß auf der Brust oder dem Rücken
 - Weiße Teile mit schwarzem Logo
 - Kleines Logo-Patch am Ärmel oder Hosenbein
