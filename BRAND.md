@@ -60,7 +60,7 @@ Tipp: Mit **Drop 1** starten, nicht alles auf einmal. Wenige Teile wirken knapp 
 | Pullover | 59–79 € |
 | Hose | 59–69 € |
 | Jogginganzug | 99–129 € |
-| Winterjacke | 129–179 € |
+| Winterjacke | 100–120 € |
 
 ### Produktion
 - **Start:** Print-on-Demand für T-Shirts und Pullover (kein Risiko). Jogginganzug und Winterjacke gibt es dort meist nicht oder nur in schlechter Qualität.
