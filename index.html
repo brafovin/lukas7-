@@ -51,12 +51,19 @@
     a.btn:hover, a.btn:focus-visible { background: var(--white); color: var(--black); outline: none; }
     a.btn.solid { background: var(--white); color: var(--black); }
     a.btn.solid:hover, a.btn.solid:focus-visible { background: transparent; color: var(--white); }
+    .range { list-style: none; display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; max-width: 420px; margin-bottom: 40px; }
+    .range li { font-family: "Permanent Marker", cursive; padding: 4px 10px; border: 1px solid #444; transform: rotate(-1deg); }
+    .range li:nth-child(even) { transform: rotate(1.5deg); }
     footer { margin-top: 48px; font-size: .8rem; opacity: .5; }
   </style>
 </head>
 <body>
   <h1>LUNEXUND</h1>
   <p class="tag">streetwear · schwarz &amp; weiß</p>
+  <ul class="range">
+    <li>Winterjacke</li><li>T-Shirts</li><li>Pullover</li>
+    <li>Hosen</li><li>Jogginganzug</li><li>Kurze Hosen</li>
+  </ul>
   <nav class="links">
     <!-- TODO: echte Profil-Links eintragen -->
     <a class="btn solid" href="https://www.tiktok.com/@lunexund">TikTok</a>
