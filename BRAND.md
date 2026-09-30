@@ -1,7 +1,7 @@
-# LUNEXUND – Brand Guide
+# LUNEX – Brand Guide
 
 ## Kern
-- **Name:** LUNEXUND
+- **Name:** LUNEX
 - **Kanäle:** TikTok + Instagram (Verkauf, Community, Marketing)
 - **Stil:** Streetwear mit Graffiti-Einfluss, roh und minimalistisch
 
@@ -28,8 +28,8 @@ Regel: Nur Schwarz und Weiß. Graustufen (`#444`) nur für Schatten.
 Kurz, direkt, selbstbewusst. Kleingeschrieben wirkt street. Wenig Emojis.
 
 ## Profil-Setup
-- **Handle:** @lunexund (TikTok + Instagram gleich halten)
-- **Bio-Vorschlag:** `lunexund – streetwear in schwarz & weiß. drop bald. ⬇️`
+- **Handle:** @lunex (TikTok + Instagram gleich halten)
+- **Bio-Vorschlag:** `lunex – streetwear in schwarz & weiß. drop bald. ⬇️`
 - **Profilbild:** weißes Logo auf Schwarz
 
 ## Content-Start (erste 2 Wochen)
