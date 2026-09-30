@@ -42,7 +42,7 @@ Kurz, direkt, selbstbewusst. Kleingeschrieben wirkt street. Wenig Emojis.
 Posten: 3–5 Videos pro Woche auf TikTok, gleiche Clips als Reels.
 
 ## Sortiment
-Winterjacke · T-Shirts · Pullover · Hosen · Jogginganzug · Kurze Hosen
+Winterjacke · T-Shirts · Pullover · Hosen · Jogginganzug · Kurze Hosen · Mützen
 
 ### Drop-Reihenfolge (Saison: jetzt Herbst/Winter)
 | Drop | Produkte | Warum |
@@ -54,7 +54,7 @@ Winterjacke · T-Shirts · Pullover · Hosen · Jogginganzug · Kurze Hosen
 Tipp: Mit **Drop 1** starten, nicht alles auf einmal. Wenige Teile wirken knapp und begehrt ("limited drop").
 
 ### Design-Ideen (nur Schwarz/Weiß)
-**Grundregel:** Weißes Shirt = **schwarzes** Logo. Schwarzes Shirt = **weißes** Logo. Druckdateien: `logo/lunex-logo-black-transparent.svg` und `logo/lunex-logo-white-transparent.svg`.
+**Grundregel für ALLE Teile** (T-Shirts, Pullover, Hosen, Kurze Hosen, Mützen, Jogger, Jacke): Weißes Teil = **schwarzes** Logo. Schwarzes Teil = **weißes** Logo. Auf Textilien immer **ohne Unterstrich**. Druckdateien: `logo/lunex-logo-black-transparent.svg` und `logo/lunex-logo-white-transparent.svg`.
 - Schwarze Teile mit weißem Graffiti-Logo groß auf der Brust oder dem Rücken
 - Weiße Teile mit schwarzem Logo
 - Kleines Logo-Patch am Ärmel oder Hosenbein
@@ -69,6 +69,7 @@ Tipp: Mit **Drop 1** starten, nicht alles auf einmal. Wenige Teile wirken knapp 
 | Hose | 59–69 € |
 | Jogginganzug | 99–129 € |
 | Winterjacke | 100–120 € |
+| Mütze | noch offen (Richtwert 15–25 €) |
 
 ### Produktion
 - **Start:** Print-on-Demand für T-Shirts und Pullover (kein Risiko). Jogginganzug und Winterjacke gibt es dort meist nicht oder nur in schlechter Qualität.
