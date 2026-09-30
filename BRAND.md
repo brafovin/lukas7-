@@ -56,7 +56,7 @@ Tipp: Mit **Drop 1** starten, nicht alles auf einmal. Wenige Teile wirken knapp 
 | Teil | Richtpreis |
 |------|-----------|
 | T-Shirt | 29–39 € |
-| Kurze Hose | 35–45 € |
+| Kurze Hose | 29–35 € |
 | Pullover | 59–79 € |
 | Hose | 59–69 € |
 | Jogginganzug | 99–129 € |
